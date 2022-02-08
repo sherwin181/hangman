@@ -1,0 +1,17 @@
+[[package]]
+name = "wordlist"
+version = "1.0.1"
+description = "Wordlist generator, creates dictionaries of words"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "d6a54ff4de0c41bc6b7937bb63a651935c723c374215693a15d6d288aac0fe20"
+
+[metadata.files]
+wordlist = [
+    {file = "wordlist-1.0.1.tar.gz", hash = "sha256:c1c6383943da8aed9273c2c6523573d47f1c7248df878d0c2ef7a6d658a33215"},
+]
